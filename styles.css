@@ -1,0 +1,37 @@
+*{
+    font-family: "Raleway";
+}
+.hero{
+    background-color: #2E2F42;
+    width: 1440px;
+    height: 600px;
+}
+.hero > button{
+    color: #ffff;
+    background-color: #4D5AE5;
+    width: 169px;
+    height: 56px;
+    border: none;
+    font-size: 16px;
+}
+h1{
+    color: #ffff;
+}
+.nav-bar-list{
+    color: #2E2F42;
+}
+address {
+    color: #434455;
+}
+.main-goals > p{
+    color: #434455;
+}
+.main-goals-list{
+    list-style-type: none;
+}
+.main-goals-list-item > h3{
+    color: #2E2F42;
+}
+.main-goals-list-item > p{
+    color:#434455;
+}
